@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-# The Octocat
+# Sourab Kanthavar (⌐■_■)
 
 ![snowoctocat](https://octodex.github.com/images/snowoctocat.png)
 {: .center}
