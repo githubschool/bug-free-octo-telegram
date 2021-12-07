@@ -3,7 +3,9 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
-
+caption chnage
+add more information
 ![minertocat](https://octodex.github.com/images/minertocat.png)
 {: .center}
+
+Test
