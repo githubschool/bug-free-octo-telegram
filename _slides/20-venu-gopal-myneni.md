@@ -3,7 +3,9 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Let's go .....................
+Courage the cowardly dog
+,,,
 
 ![skitchtocat](https://octodex.github.com/images/skitchtocat.png)
 {: .center}
